@@ -1,0 +1,155 @@
+#title{
+    background-color: #EE4266;
+}
+#features{
+  padding:7% 15%;
+
+}
+
+#testimonials{
+background-color:#F3CBA5;
+  padding:3% 15%;
+  text-align: center;
+  color:#fff;
+  font-family:"Anta";
+
+
+}
+.testimonial-text{
+  color:#black;
+}
+.testimonial-image{
+  width:35%;
+  border-radius:100%;
+  margin:3%;
+}
+
+}
+#press{
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom:5%;
+}
+.press-logo{
+  margin:2%;
+  width:15%;
+}
+h2{
+  font-size: 2.5rem;
+  text-align: center;
+color:#000000;
+}
+.icon{
+  text-align: center;
+  color:#ef8172;
+
+}
+.icon:hover{
+  color:#ff4c68;
+}
+h1{
+        font-family: "Anta";
+        font-weight: 500;
+color:#B3541E;
+
+      }
+
+h3{
+  font-weight: bold;
+  text-align: center;
+
+}
+p{
+  text-align:center;
+  color:#black;
+
+}
+.container-fluid{
+    padding:3% 15%;
+
+
+}
+body{
+    font-family:"Anta";
+
+
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+    color:#B3541E;
+    gap: 15px;
+
+}
+.nav-item{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.btn btn-dark{
+    padding: 0% 0% 0% 10%;
+
+}
+.button-inline{
+  padding:2% 2% 2% 0%;
+  margin-left:2%
+  margin-top:5%;
+}
+.img-fluid{
+  width:200%;
+  transform:rotate();
+    border-radius:100%;
+
+}
+.nav-link{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color:#B3541E;
+
+  }
+
+
+
+*{
+  font-family:
+}
+#pricing{
+  text-align: center;
+  padding:75px;
+}
+.card-deck{
+  padding:2%;
+
+}
+
+
+#cta{
+  text-align: center;
+background-color:#F3CBA5;
+}
+#footer{
+  background-color:#F3CBA5;
+}
+.row{
+  color:
+}
+.container{
+  color:#
+}
+#tagline{
+  background-color:#0D9276; #CDFADB;
+}
+.feature-box {
+     border: 1px solid #ccc;
+     padding: 20px;
+     text-align: center;
+     margin-bottom: 20px;
+     transition: transform 0.3s ease;
+     height: 100%;
+
+     background-color:#F3CBA5;
+   }
+   .feature-box:hover {
+     transform: scale(1.05);
+     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+   }
